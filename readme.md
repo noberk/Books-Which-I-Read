@@ -1,5 +1,8 @@
-# Cryptocurrency
+# Cryptocurrency💰
 
-1. [Cryptocurrency Investing Bible](docs/Cryptocurrency-Investing-Bible.md)
+[Cryptocurrency Investing Bible](docs/Cryptocurrency-Investing-Bible.md)
 
-# Investment
+# Investment💲
+
+[Rich Dad Poor Dad - Robert Kiyosaki](docs/Rich-Dad-Poor-Dad.md)
+[CashFlow Quadrant - Robert Kiyosaki](docs/CashFlow-Quadrant.md)
