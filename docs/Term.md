@@ -1,5 +1,3 @@
-# 区块链 & 财务自由
-
 # Cryptocurrency
 
 加密货币
