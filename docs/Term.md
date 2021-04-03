@@ -1,17 +1,36 @@
 # 区块链 & 财务自由
 
-Cryptocurrency 加密货币
-Ledger 账本
-Token
-Liquidity
-Volume
-Zero-Knowledge Proof
-Proof of Work 工作量证明(防止伪造加密货币的一种)
-Proof-of-Liquidity-Mining(PoL)
-Proof-of-Gas(PoG)
-Liquidity Mining
-Airdrop 一种营销策略 可以免费发放或者参与社区活动, 也可以哄抬币价,用于谋取私利
-Trust free
+# Cryptocurrency
+
+加密货币
+
+# Ledger
+
+账本
+
+# Token
+
+# Liquidity
+
+# Volume
+
+# Zero-Knowledge Proof
+
+# Proof of Work
+
+工作量证明(防止伪造加密货币的一种)
+
+# Proof-of-Liquidity-Mining(PoL)
+
+# Proof-of-Gas(PoG)
+
+# Liquidity Mining
+
+# Airdrop
+
+一种营销策略 可以免费发放或者参与社区活动, 也可以哄抬币价,用于谋取私利
+
+# Trust free
 
 # Staking
 
