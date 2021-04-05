@@ -8,3 +8,6 @@
 - Giving it back
 
 - You cannot teach someone to be a sophisticated investor. But a person can learn to become a sophisticated.📚
+
+- The rich don't work for money
+- Whatever your reality is about money inside of you is the reality of money outside of you. You cannot change your outside reality until you first change your inde reality about money.  - Rich Dad
