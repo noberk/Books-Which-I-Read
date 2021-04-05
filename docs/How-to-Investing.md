@@ -11,3 +11,4 @@
 
 - The rich don't work for money
 - Whatever your reality is about money inside of you is the reality of money outside of you. You cannot change your outside reality until you first change your inde reality about money.  - Rich Dad
+- the more financial skills you have, the more abundance you will have in your life.
