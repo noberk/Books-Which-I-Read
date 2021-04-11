@@ -10,6 +10,8 @@
 
 # Liquidity
 
+# Liquidity-Pool
+
 # Volume
 
 # Zero-Knowledge Proof
@@ -25,6 +27,8 @@
 # Liquidity Mining
 
 # Airdrop
+
+# Automated Liquidity Protocol
 
 一种营销策略 可以免费发放或者参与社区活动, 也可以哄抬币价,用于谋取私利
 
