@@ -2,15 +2,29 @@
 
 加密货币
 
+# Maker & Taker
+
+The makers create buying or selling orders that aren't carried out immediately (e.g., “sell BTC when the price hits $15k”). This creates liquidity, meaning it's easier for others to instantly buy or sell BTC when the condition is met. The people that buy or sell instantly are called takers.
+
+# AMM automated market maker
+
+An automated market maker (AMM) is a system that provides liquidity to the exchange it operates in through automated trading.
+
 # Ledger
 
 账本
+
+# DEX
+
+Decenteralized Exchange
 
 # Token
 
 # Liquidity
 
 # Liquidity-Pool
+
+A Liquidity Pool is a way for you to provide liquidity (money) to a Decentralized Exchange (DEX) such as Uniswap, Balancer, or Sushiswap for them to operate their business in exchange for receiving a % of fees.
 
 # Volume
 
