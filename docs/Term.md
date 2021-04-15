@@ -1,5 +1,9 @@
 # Cryptocurrency
 
+# Glossary Website
+
+https://docs.minaprotocol.com/en/glossary
+
 加密货币
 
 # Maker & Taker
@@ -29,9 +33,10 @@ A Liquidity Pool is a way for you to provide liquidity (money) to a Decentralize
 # Volume
 
 # Zero-Knowledge Proof
-# zk-SNARKs
-Non-interactive zero-knowledge proofs— also known as NIZK,[1] zk-SNARK,[2] zk-STARK[3]—are zero-knowledge proofs that require no interaction[clarification needed] between the prover and verifier.
 
+# zk-SNARKs
+
+Non-interactive zero-knowledge proofs— also known as NIZK,[1] zk-SNARK,[2] zk-STARK[3]—are zero-knowledge proofs that require no interaction[clarification needed] between the prover and verifier.
 
 # Proof of Work
 
