@@ -6,6 +6,10 @@ https://docs.minaprotocol.com/en/glossary
 
 加密货币
 
+# 51% Attack
+
+A 51% attack (or majority attack) refers to a potential attack on the integrity of a blockchain system in which a single malicious actor or organization manages to control more than half of the total hashing power of the network, potentially causing network disruption.
+
 # Maker & Taker
 
 The makers create buying or selling orders that aren't carried out immediately (e.g., “sell BTC when the price hits $15k”). This creates liquidity, meaning it's easier for others to instantly buy or sell BTC when the condition is met. The people that buy or sell instantly are called takers.
